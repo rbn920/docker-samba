@@ -1,0 +1,7 @@
+environment:
+  - SHARE=/mnt/share
+  - READ_ONLY=yes
+  - BROWSABLE=yes
+  - GUEST=yes
+  - GROUP=rox
+  - CREATE_MASK=0770
